@@ -1,4 +1,4 @@
-# N-Gram-Language-Model
+# N-Gram-Language-Model and Sentence Generation
 
 ## Part 1: Build an n-gram language model
 
