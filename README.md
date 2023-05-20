@@ -4,12 +4,12 @@
 
 In this part, you need to develop an n-gram model that can handle any order of n-gram. The task involves building two language models:
 
-1. Language Model from Training Data (LM_1_Corpus.zip):
+1. **Language Model from Training Data (LM_1_Corpus.zip):**
    - Build a language model using the provided training data.
    - The model should be capable of handling bigrams and trigrams.
    - For words with zero probability, utilize the technique described in the class and the book.
 
-2. Language Model from The Berkeley Restaurant Project (BeRP):
+2. **Language Model from The Berkeley Restaurant Project (BeRP):**
    - Utilize the functions provided in the NLTK Corpora, specifically for the BeRP.
    - These functions should take a sentence formatted the same way as the training data.
    - Return the probability assigned to that sentence by your model.
