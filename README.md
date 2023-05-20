@@ -27,7 +27,3 @@ In this part, you'll implement sentence generation for both language models usin
 ## Part 3: Create an Out-of-Domain Test Set and Measure Performance
 
 In this part, you need to find or curate an out-of-domain test set consisting of 100 sentences. Ensure that the sentences are formatted consistently with the provided test set. Then, use your favorite Python library to calculate the performance metrics for the language models on this out-of-domain test set.
-
-## Honor Policy
-
-This assignment is a learning opportunity that will be evaluated based on your ability to think in a group setting, work through a problem logically, and write a research report on your own. While you can discuss the assignment verbally or via email with your classmates or the course instructor, the actual report and code should be your own work. Plagiarized reports or code will receive a zero. If you have any doubts, please ask the course instructor.
